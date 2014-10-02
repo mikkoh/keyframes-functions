@@ -1,5 +1,5 @@
 {
-  "name": "functionsequencer",
+  "name": "keyframes-functions",
   "version": "1.0.0",
   "description": "will call a series of functions over time",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MikkoH/functionsequencer.git"
+    "url": "https://github.com/MikkoH/keyframes-functions.git"
   },
   "keywords": [
     "function",
@@ -18,7 +18,10 @@
   "author": "Mikko Haapoja <me@mikkoh.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MikkoH/functionsequencer/issues"
+    "url": "https://github.com/MikkoH/keyframes-functions/issues"
   },
-  "homepage": "https://github.com/MikkoH/functionsequencer"
+  "homepage": "https://github.com/MikkoH/keyframes-functions",
+  "directories": {
+    "test": "test"
+  }
 }
